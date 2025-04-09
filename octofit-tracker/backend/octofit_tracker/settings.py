@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-btcnc&9=(_yz-u022ug!xif+!p=s7bjrz2k$i-k!ikuc7sijf$
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'ubiquitous-system-xrv7q79wj4f9q4x-8000.app.github.dev']
 
 
 # Application definition
